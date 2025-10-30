@@ -11,7 +11,7 @@ const Footer = () => {
             <h5>Contact Info</h5>
             <p><i className="fas fa-envelope"></i> MounikaMouni.5577@gmail.com</p>
             <p><i className="fas fa-phone"></i> +1 9048217685</p>
-            <p><i className="fas fa-map-marker-alt"></i> Jacksonville,FL,USA</p>
+            <p><i className="fas fa-map-marker-alt"></i>USA</p>
           </div>
           <div className="col-lg-4 mb-4 mb-lg-0">
             <h5>Social Links</h5>

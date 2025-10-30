@@ -7,7 +7,7 @@ const Experience = () => {
       id: 1,
       company: 'PLATEAU GRP',
       position: 'Software Engineer',
-      period: 'Nov 2023 - Present',
+      period: 'FEB 2024 - Present',
       description: 'Designed and implemented robust software solutions using object-oriented programming principles and scripting languages. Built and maintained microservice architectures within containerized environments. Established CI/CD pipelines using Jenkins and GitLab. Integrated development workflows with NPM, Cypress.io, esbuild, and Bun. Implemented code quality gates through SonarQube analysis and automated security scanning using Fortify.',
       technologies: ['Jenkins', 'GitLab', 'NPM', 'Cypress.io', 'esbuild', 'Bun', 'Apache Tomcat', 'Maven', 'SonarQube', 'Ansible', 'JUnit5', 'React', 'Sketch', 'InVision', 'TDD']
     },
@@ -15,7 +15,7 @@ const Experience = () => {
       id: 2,
       company: 'Guac',
       position: 'Software Engineer',
-      period: 'Aug 2021 - Jul 2023',
+      period: 'FEB 2022 - Jul 2023',
       description: 'Developed and maintained efficient ETL pipelines processing billions of data rows daily using Python. Architected customer-facing features for web applications using React, Next.js, and TypeScript. Leveraged GCP services and BigQuery to create scalable data solutions. Contributed to infrastructure as code using Terraform and Docker. Built and maintained RESTful APIs using FastAPI and contributed to React Native mobile application development.',
       technologies: ['Python', 'FastAPI', 'React', 'Next.js', 'TypeScript', 'GCP', 'BigQuery', 'Terraform', 'Docker', 'PostgreSQL', 'React Native']
     }

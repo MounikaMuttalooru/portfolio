@@ -123,7 +123,7 @@ const Resume = () => {
           <div className="contact-info">
             <p><i className="fas fa-envelope me-2"></i> MounikaMouni.5577@gmail.com</p>
             <p><i className="fas fa-phone me-2"></i> +1 9048217685</p>
-            <p><i className="fas fa-map-marker-alt me-2"></i> Jacksonville, FL</p>
+            <p><i className="fas fa-map-marker-alt me-2"></i> USA</p>
           </div>
           <div className="mt-3">
             <a href={MouniResume} className="btn btn-primary btn-lg" download>

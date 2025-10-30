@@ -112,7 +112,7 @@ const Contact = () => {
               <h3 className="mb-4">Get in Touch</h3>
                               <p><i className="fas fa-envelope me-2"></i> MounikaMouni.5577@gmail.com</p>
               <p><i className="fas fa-phone me-2"></i> +1 9048217685</p>
-              <p><i className="fas fa-map-marker-alt me-2"></i> Jacksonville, USA</p>
+              <p><i className="fas fa-map-marker-alt me-2"></i> USA</p>
             </div>
           </div>
           
