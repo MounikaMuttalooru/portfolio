@@ -31,9 +31,9 @@ const Navbar = () => {
   return (
     <nav className={`navbar navbar-expand-lg fixed-top ${scrolled ? 'scrolled' : ''}`}>
       <div className="container">
-        <Link className="navbar-brand" to="/">
-          <img src={Mounipic} alt="Mounika" className="nav-profile-pic" />
-        </Link>
+
+        <Link className="navbar-brand" to="/">Mounika Muttalooru</Link>
+        
         <button
           className={`navbar-toggler ${isOpen ? 'active' : ''}`}
           type="button"
@@ -64,29 +64,11 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <Link
-                className={`nav-link ${location.pathname === '/experience' ? 'active' : ''}`}
-                to="/experience"
+                className={`nav-link ${location.pathname === '/projects' ? 'active' : ''}`}
+                to="/projects"
                 onClick={() => setIsOpen(false)}
               >
-                Experience
-              </Link>
-            </li>
-            <li className="nav-item">
-              <Link
-                className={`nav-link ${location.pathname === '/skills' ? 'active' : ''}`}
-                to="/skills"
-                onClick={() => setIsOpen(false)}
-              >
-                Skills
-              </Link>
-            </li>
-            <li className="nav-item">
-              <Link
-                className={`nav-link ${location.pathname === '/resume' ? 'active' : ''}`}
-                to="/resume"
-                onClick={() => setIsOpen(false)}
-              >
-                Resume
+                Projects
               </Link>
             </li>
             <li className="nav-item">
