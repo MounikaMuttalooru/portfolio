@@ -15,7 +15,7 @@ const About = () => {
             </div>
             <div className="floating-info">
               <div className="info-item">
-                <span className="info-number">5+</span>
+                <span className="info-number">3+</span>
                 <span className="info-label">Years Experience</span>
               </div>
               <div className="info-item">

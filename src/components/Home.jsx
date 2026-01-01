@@ -53,7 +53,7 @@ const Home = () => {
         <h1>Mounika Muttalooru</h1>
         <h2>Full Stack Software Engineer</h2>
         <p>
-        Full Stack Software Engineer with 5+ years of experience designing, developing, and deploying scalable applications across cloud, web, and mobile platforms. Skilled in Python,Java, React, Angular, Restfull APIs, FastAPI, AWS, GCP, Docker, Kubernetes, Terraform, and CI/CD (Jenkins, GitLab, SonarQube). Experienced with PostgreSQL, BigQuery, delivering high-quality, data-driven solutions that optimize operations and enable large-scale decision making.
+        Full Stack Software Engineer with 3+ years of experience designing, developing, and deploying scalable applications across cloud, web, and mobile platforms. Skilled in Python,Java, React, Angular, Restfull APIs, FastAPI, AWS, GCP, Docker, Kubernetes, Terraform, and CI/CD (Jenkins, GitLab, SonarQube). Experienced with PostgreSQL, BigQuery, delivering high-quality, data-driven solutions that optimize operations and enable large-scale decision making.
         </p>
         <div className="cta-buttons">
           
